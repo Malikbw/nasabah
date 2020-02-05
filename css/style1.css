@@ -1,0 +1,15 @@
+.initabel {
+  border: 1px solid;
+  padding: 10px;
+  margin-top: 30px;
+  color: white;
+  box-shadow: 0px 20px 34px 8px rgba(41, 50, 99,0.40);
+}
+
+.juduldata {
+	margin-top: 10px;
+}
+
+.judul {
+	margin-top: 30px;
+}
